@@ -2,3 +2,13 @@
   display: flex;
   align-items: center;
 }
+
+.skills-list > ul {
+  padding-left: 15px;
+}
+
+.skills-list > ul > li {
+  margin-bottom: 5px;
+  font-family: lato-normal;
+  font-size: large;
+}

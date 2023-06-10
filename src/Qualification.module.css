@@ -24,11 +24,7 @@
   animation-name: qualification_anim;
   animation-duration: 0.4s;
   margin-bottom: 15vh;
-  font-family: queensides;
-}
-
-.qualification__wrapper h1 {
-  font-weight: 600;
+  font-family: lato-normal;
 }
 
 @keyframes qualification_anim {
