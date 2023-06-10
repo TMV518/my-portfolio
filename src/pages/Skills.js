@@ -1,0 +1,42 @@
+import Qualification from "../Qualification";
+import classes from "./Skills.module.css";
+
+const Skills = () => {
+  return (
+    <Qualification header={"Skills"}>
+      <div className={classes["skills-images"]}>
+        <img
+          style={{ width: "15vw" }}
+          src={require("../assets/HTML5_logo.png")}
+        />
+        <img
+          style={{ width: "11vw" }}
+          src={require("../assets/CSS_logo.png")}
+        />
+        <img style={{ width: "15vw" }} src={require("../assets/logo512.png")} />
+        <img
+          style={{ width: "13vw" }}
+          src={require("../assets/Unity_logo.png")}
+        />
+      </div>
+      <h2>Front end development using React.js</h2>
+      <ul>
+        <li>Using hooks to manage state and interact with a front end app</li>
+        <li>Designing interactive UIs to help users perform tasks</li>
+        <li>
+          Creating web forms with input validation to interact with the front
+          and back end
+        </li>
+        <li>Utilizing public REST APIs to work with apps that fetch data</li>
+        <li>Creating CRUD apps</li>
+      </ul>
+      <h2>Mobile Game Design with Unity and C#</h2>
+      <ul>
+        <li>Released two apps on the Google Play Store</li>
+        <li>Implemented ads using Unity Ads SDK</li>
+      </ul>
+    </Qualification>
+  );
+};
+
+export default Skills;

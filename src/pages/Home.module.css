@@ -1,0 +1,60 @@
+@font-face {
+  font-family: queensides;
+  src: url(../fonts/queensides-font/QueensidesLight-ZVj3l.ttf);
+  font-weight: 100;
+}
+
+.main-content {
+  font-family: queensides;
+  font-size: 10vw;
+  font-weight: 100;
+  animation-name: home_anim;
+  animation-duration: 0.4s;
+  /* margin-top: 15vw; */
+}
+
+.qualifications__list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.qualifications__list > li {
+  text-align: center;
+}
+
+.qualifications__list > li > a,
+li > a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+.qualifications__list > li > a:hover,
+.qualifications__list > li > a:active {
+  animation: text-hover 0.2s;
+}
+
+@media only screen and (min-width: 600px) {
+  .main-content {
+    font-size: 5vw;
+  }
+}
+
+@keyframes text-hover {
+  from {
+    opacity: 100%;
+  }
+  to {
+    opacity: 50%;
+  }
+}
+
+@keyframes home_anim {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(0%);
+  }
+}

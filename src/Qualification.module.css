@@ -1,0 +1,52 @@
+.back-button {
+  border: none;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background-color: black;
+  color: white;
+  font-size: 3vh;
+  border-radius: 50%;
+  height: 10vh;
+  width: 10vh;
+  margin-bottom: 10%;
+  margin-right: 5%;
+  font-family: queensides;
+}
+
+.back-button:hover {
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.qualification__wrapper {
+  margin-left: 5px;
+  animation-name: qualification_anim;
+  animation-duration: 0.4s;
+  margin-bottom: 15vh;
+  font-family: queensides;
+}
+
+.qualification__wrapper h1 {
+  font-weight: 600;
+}
+
+@keyframes qualification_anim {
+  from {
+    transform: translateX(100%);
+  }
+
+  to {
+    transform: translateX(0%);
+  }
+}
+
+@keyframes back-button_anim {
+  from {
+    transform: translateX(100%);
+  }
+
+  to {
+    transform: translateX(0%);
+  }
+}

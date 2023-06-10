@@ -1,0 +1,56 @@
+@font-face {
+  font-family: queensides;
+  src: url(./fonts/queensides-font/QueensidesLight-ZVj3l.ttf);
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: queensides;
+  src: url(./fonts/queensides-font/QueensidesMedium-x30zV.ttf);
+  font-weight: 200;
+}
+
+.margin {
+  margin-top: 15vw;
+}
+.banner {
+  background-color: black;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  text-align: center;
+}
+
+span {
+  font-size: 10vw;
+  color: white;
+  font-family: queensides;
+  font-weight: 200;
+}
+
+/*.main-content > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  text-align: center;
+}
+
+li > a,
+li > a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+li > a:hover,
+li > a:active {
+  opacity: 50%;
+}*/
+
+@media only screen and (min-width: 600px) {
+  span {
+    font-size: 5vw;
+  }
+}
