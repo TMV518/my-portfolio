@@ -40,29 +40,11 @@ span {
   font-weight: 200;
 }
 
-/*.main-content > ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-li {
-  text-align: center;
-}
-
-li > a,
-li > a:visited {
-  text-decoration: none;
-  color: black;
-}
-
-li > a:hover,
-li > a:active {
-  opacity: 50%;
-}*/
-
 @media only screen and (min-width: 600px) {
   span {
     font-size: 5vw;
+  }
+  .margin {
+    margin-top: 10vw;
   }
 }

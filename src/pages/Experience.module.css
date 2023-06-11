@@ -1,0 +1,14 @@
+.experience-images {
+  display: flex;
+  align-items: center;
+}
+
+.experience-list > ul {
+  padding-left: 15px;
+}
+
+.experience-list > ul > li {
+  margin-bottom: 5px;
+  font-family: lato-normal;
+  font-size: large;
+}

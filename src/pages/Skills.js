@@ -8,15 +8,18 @@ const Skills = () => {
         <img
           style={{ width: "60px" }}
           src={require("../assets/HTML5_logo.png")}
+          alt="HTML5 logo"
         />
         <img
           style={{ width: "45px" }}
           src={require("../assets/CSS_logo.png")}
+          alt="CSS logo"
         />
         <img style={{ width: "60px" }} src={require("../assets/logo512.png")} />
         <img
           style={{ width: "60px" }}
           src={require("../assets/Unity_logo.png")}
+          alt="Unity logo"
         />
       </div>
       <h2>Front end development using React.js</h2>
