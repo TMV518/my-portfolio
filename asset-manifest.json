@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-tom-vondollen/static/css/main.dcce5a4d.css",
-    "main.js": "/portfolio-tom-vondollen/static/js/main.e8e8e0d0.js",
-    "static/js/787.be5f593c.chunk.js": "/portfolio-tom-vondollen/static/js/787.be5f593c.chunk.js",
-    "static/media/QueensidesLight-ZVj3l.ttf": "/portfolio-tom-vondollen/static/media/QueensidesLight-ZVj3l.68fe009f356bda84eb93.ttf",
-    "static/media/Unity_logo.png": "/portfolio-tom-vondollen/static/media/Unity_logo.b196c776e313b0a0c14f.png",
-    "static/media/QueensidesMedium-x30zV.ttf": "/portfolio-tom-vondollen/static/media/QueensidesMedium-x30zV.05fc9101e644828619df.ttf",
-    "static/media/HVCC_logo.png": "/portfolio-tom-vondollen/static/media/HVCC_logo.e382030c565a018ad791.png",
-    "static/media/Lato-Light.ttf": "/portfolio-tom-vondollen/static/media/Lato-Light.c7400fcad9e48ca9043f.ttf",
-    "static/media/Lato-Regular.ttf": "/portfolio-tom-vondollen/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
-    "static/media/Staples_logo.png": "/portfolio-tom-vondollen/static/media/Staples_logo.4ad39bec80b65a94ee82.png",
-    "static/media/CSS_logo.png": "/portfolio-tom-vondollen/static/media/CSS_logo.bee63b9e863f48d93bda.png",
-    "static/media/SUNY_Poly_logo.png": "/portfolio-tom-vondollen/static/media/SUNY_Poly_logo.b00df23661106bb2ea52.png",
-    "static/media/HTML5_logo.png": "/portfolio-tom-vondollen/static/media/HTML5_logo.d50fc7a86b6f3764610b.png",
-    "index.html": "/portfolio-tom-vondollen/index.html",
-    "main.dcce5a4d.css.map": "/portfolio-tom-vondollen/static/css/main.dcce5a4d.css.map",
-    "main.e8e8e0d0.js.map": "/portfolio-tom-vondollen/static/js/main.e8e8e0d0.js.map",
-    "787.be5f593c.chunk.js.map": "/portfolio-tom-vondollen/static/js/787.be5f593c.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.67d9eea2.css",
+    "main.js": "/my-portfolio/static/js/main.41c6baa4.js",
+    "static/js/787.be5f593c.chunk.js": "/my-portfolio/static/js/787.be5f593c.chunk.js",
+    "static/media/QueensidesLight-ZVj3l.ttf": "/my-portfolio/static/media/QueensidesLight-ZVj3l.68fe009f356bda84eb93.ttf",
+    "static/media/Unity_logo.png": "/my-portfolio/static/media/Unity_logo.b196c776e313b0a0c14f.png",
+    "static/media/QueensidesMedium-x30zV.ttf": "/my-portfolio/static/media/QueensidesMedium-x30zV.05fc9101e644828619df.ttf",
+    "static/media/HVCC_logo.png": "/my-portfolio/static/media/HVCC_logo.e382030c565a018ad791.png",
+    "static/media/Lato-Light.ttf": "/my-portfolio/static/media/Lato-Light.c7400fcad9e48ca9043f.ttf",
+    "static/media/Lato-Regular.ttf": "/my-portfolio/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Staples_logo.png": "/my-portfolio/static/media/Staples_logo.4ad39bec80b65a94ee82.png",
+    "static/media/CSS_logo.png": "/my-portfolio/static/media/CSS_logo.bee63b9e863f48d93bda.png",
+    "static/media/SUNY_Poly_logo.png": "/my-portfolio/static/media/SUNY_Poly_logo.b00df23661106bb2ea52.png",
+    "static/media/HTML5_logo.png": "/my-portfolio/static/media/HTML5_logo.d50fc7a86b6f3764610b.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.67d9eea2.css.map": "/my-portfolio/static/css/main.67d9eea2.css.map",
+    "main.41c6baa4.js.map": "/my-portfolio/static/js/main.41c6baa4.js.map",
+    "787.be5f593c.chunk.js.map": "/my-portfolio/static/js/787.be5f593c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcce5a4d.css",
-    "static/js/main.e8e8e0d0.js"
+    "static/css/main.67d9eea2.css",
+    "static/js/main.41c6baa4.js"
   ]
 }
