@@ -6,6 +6,9 @@ const Home = () => {
     <div className={classes["main-content"]}>
       <ul className={classes["qualifications__list"]}>
         <li>
+          <Link to="/education">Education</Link>
+        </li>
+        <li>
           <Link to="/skills">Skills</Link>
         </li>
         <li>
