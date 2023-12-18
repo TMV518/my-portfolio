@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.deb52359.css",
-    "main.js": "/my-portfolio/static/js/main.ec2e3fd1.js",
+    "main.js": "/my-portfolio/static/js/main.dcd52696.js",
     "static/js/787.be5f593c.chunk.js": "/my-portfolio/static/js/787.be5f593c.chunk.js",
     "static/media/QueensidesLight-ZVj3l.ttf": "/my-portfolio/static/media/QueensidesLight-ZVj3l.68fe009f356bda84eb93.ttf",
     "static/media/Unity_logo.png": "/my-portfolio/static/media/Unity_logo.b196c776e313b0a0c14f.png",
@@ -11,15 +11,18 @@
     "static/media/Lato-Regular.ttf": "/my-portfolio/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/Staples_logo.png": "/my-portfolio/static/media/Staples_logo.4ad39bec80b65a94ee82.png",
     "static/media/CSS_logo.png": "/my-portfolio/static/media/CSS_logo.bee63b9e863f48d93bda.png",
+    "static/media/zos-logo.png": "/my-portfolio/static/media/zos-logo.a5ab05f5fb545ec74c2f.png",
     "static/media/SUNY_Poly_logo.png": "/my-portfolio/static/media/SUNY_Poly_logo.b00df23661106bb2ea52.png",
+    "static/media/logo_ITS_500x125.png": "/my-portfolio/static/media/logo_ITS_500x125.f8f7c8af660cb4f19fb8.png",
+    "static/media/db2-logo.png": "/my-portfolio/static/media/db2-logo.98e397aa94b22998dc39.png",
     "static/media/HTML5_logo.png": "/my-portfolio/static/media/HTML5_logo.d50fc7a86b6f3764610b.png",
     "index.html": "/my-portfolio/index.html",
     "main.deb52359.css.map": "/my-portfolio/static/css/main.deb52359.css.map",
-    "main.ec2e3fd1.js.map": "/my-portfolio/static/js/main.ec2e3fd1.js.map",
+    "main.dcd52696.js.map": "/my-portfolio/static/js/main.dcd52696.js.map",
     "787.be5f593c.chunk.js.map": "/my-portfolio/static/js/787.be5f593c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.deb52359.css",
-    "static/js/main.ec2e3fd1.js"
+    "static/js/main.dcd52696.js"
   ]
 }
